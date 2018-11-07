@@ -10,5 +10,5 @@ code --install-extension shinnn.stylelint
 code --install-extension sleistner.vscode-fileutils
 
 # copy settings
-cp settings.json $HOME/Library/Application Support/Code/User/settings.json
-cp javascript.json $HOME/Library/Application Support/Code/User/snippets/javascript.json
+cp settings.json $HOME/Library/Application\ Support/Code/User/settings.json
+cp javascript.json $HOME/Library/Application\ Support/Code/User/snippets/javascript.json
