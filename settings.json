@@ -1,0 +1,22 @@
+{
+    "editor.detectIndentation": false,
+    "files.insertFinalNewline": true,
+    "editor.fontSize": 13,
+    "editor.scrollBeyondLastLine": true,
+    "editor.tabSize": 4,
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "workbench.colorTheme": "Monokai",
+    "workbench.startupEditor": "newUntitledFile",
+    "gitlens.menus": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "prettier.eslintIntegration": true,
+    "prettier.singleQuote": true,
+    "workbench.statusBar.feedback.visible": false,
+    "prettier.semi": false,
+    "window.openFoldersInNewWindow": "on",
+    "prettier.stylelintIntegration": true
+}
