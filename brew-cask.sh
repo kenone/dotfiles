@@ -17,7 +17,7 @@ brew cask install slack
 brew cask install franz
 
 # dev
-brew cask install vscode
+brew cask install visual-studio-code
 brew cask install sequel-pro
 brew cask install virtualbox
 brew cask install screenhero
