@@ -248,3 +248,14 @@ sh .osx
 
 ###
 ##############################################################################################################
+
+# Copy files from iCloud
+# SSH keys
+cp $HOME/Library/Mobile\ Documents/com~apple~CloudDocs/core/ssh $HOME/.ssh
+
+# Gitconfig
+cp $HOME/Library/Mobile\ Documents/com~apple~CloudDocs/core/.gitconfig.local $HOME/.gitconfig.local
+
+# Sequel Pro favorites
+cp $HOME/Library/Mobile\ Documents/com~apple~CloudDocs/core/sequelpro/Favorites.plist $HOME/Library/Application\ Support/Sequel\ Pro/Data/Favorites.plist
+
