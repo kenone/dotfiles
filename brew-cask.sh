@@ -15,6 +15,7 @@ brew cask install spotify
 brew cask install alfred
 brew cask install slack
 brew cask install franz
+brew cask install evernote
 
 # dev
 brew cask install visual-studio-code
